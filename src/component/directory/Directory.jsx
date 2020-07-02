@@ -32,28 +32,28 @@ class Directory extends React.Component {
           title: "lady-purse",
           imageUrl:
             "https://cbu01.alicdn.com/img/ibank/2019/041/222/11216222140_301242762.400x400.jpg",
-          size: "large",
+          size: "small",
           id: 4,
         },
         {
           title: "handbag",
           imageUrl:
             "https://cbu01.alicdn.com/img/ibank/2017/703/814/4381418307_27799352.400x400.jpg",
-          size: "large",
+          size: "small",
           id: 5,
         },
         {
           title: "jewellery",
           imageUrl:
             "https://cbu01.alicdn.com/img/ibank/2017/484/876/4466678484_1984651542.search.jpg",
-          size: "large",
+          size: "small",
           id: 6,
         },
         {
           title: "sale",
           imageUrl:
             "https://cbu01.alicdn.com/img/ibank/2018/882/783/9109387288_27799352.400x400.jpg",
-          size: "large",
+          size: "small",
           id: 7,
         },
       ],

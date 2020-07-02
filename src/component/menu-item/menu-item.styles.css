@@ -1,6 +1,6 @@
 .menu-item {
   min-width: 30%;
-  height: 240px;
+  height: 200px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
@@ -35,8 +35,8 @@
   opacity: 0.9;
 }
 
-.menu-item.large {
-  height: 380px;
+.menu-item.small {
+  height: 200px;
 }
 
 .menu-item:first-child {
