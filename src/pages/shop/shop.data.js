@@ -1,7 +1,7 @@
 const SHOP_DATA = [
   {
     id: 1,
-    title: "handmade-art",
+    title: "Handmade-art",
     routeName: "handmade-art",
     items: [
       {
@@ -63,7 +63,7 @@ const SHOP_DATA = [
   },
   {
     id: 2,
-    title: "keyring",
+    title: "Keyring",
     routeName: "keyring",
     items: [
       {
@@ -118,7 +118,7 @@ const SHOP_DATA = [
   },
   {
     id: 3,
-    title: "children-purse",
+    title: "Children-purse",
     routeName: "children-purse",
     items: [
       {
@@ -155,7 +155,7 @@ const SHOP_DATA = [
   },
   {
     id: 4,
-    title: "lady-purse",
+    title: "Lady-purse",
     routeName: "lady-purse",
     items: [
       {
@@ -204,7 +204,7 @@ const SHOP_DATA = [
   },
   {
     id: 5,
-    title: "handbag",
+    title: "Handbag",
     routeName: "handbag",
     items: [
       {
@@ -247,7 +247,7 @@ const SHOP_DATA = [
   },
   {
     id: 6,
-    title: "jewellery",
+    title: "Jewellery",
     routeName: "jewellery",
     items: [
       {
@@ -309,7 +309,7 @@ const SHOP_DATA = [
   },
   {
     id: 7,
-    title: "sale",
+    title: "Sale",
     routeName: "sale",
     items: [
       {
