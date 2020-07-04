@@ -16,22 +16,6 @@ const HandmadeArt = () => (
   </div>
 );
 
-// function App() {
-//   return (
-//     <div>
-//       <Switch>
-//         <Route exact path="/" component={HomePage} />
-//         <Route path="/contact" component={Contact} />
-//         <Route path="/shop" component={ShopPage} />
-//         <Route path="/signin" component={SignIn} />
-//         <Route path="/handmade-art" component={HandmadeArt} />
-//       </Switch>
-//     </div>
-//   );
-// }
-
-// export default App;
-
 class App extends React.Component {
   constructor() {
     super();
