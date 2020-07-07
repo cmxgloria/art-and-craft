@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## structure of the app
+
+header section including all shop, contact and sign icon
+custom section including all signin, signup and signInWithGoogle
+main app with directory.jsx, click each directory to find each category, each category have more individual items
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
