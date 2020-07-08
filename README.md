@@ -9,6 +9,7 @@ In the project directory, you can run:
 header section including all shop, contact and sign icon
 custom section including all signin, signup and signInWithGoogle
 main app with directory.jsx, click each directory to find each category, each category have more individual items
+firebase to store user and items data
 
 ### `npm start`
 
