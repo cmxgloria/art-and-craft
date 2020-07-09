@@ -20,6 +20,13 @@ Action-Root Reducer-Store-DOM display updated state
 
 Flux Pattern
 Action-Dispatcher-Store-View
+
+redux introduction is due to props drilling which needs to be solve. Like some parent state to pass prop to great great grandchild then no need to pass one by one step of each's child(even this child component may not need this prop), nested is bad habit to write a code.
+To solve it, redux uses single source of truth, create new state file , other component can share the data instead of repeat the code
+
+
+MVC is JS pattern
+Action-Controller-model(like state data)-view
 ```
 
 ### `npm start`
