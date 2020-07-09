@@ -6,10 +6,21 @@ In the project directory, you can run:
 
 ## structure of the app
 
+```
 header section including all shop, contact and sign icon
 custom section including all signin, signup and signInWithGoogle
 main app with directory.jsx, click each directory to find each category, each category have more individual items
 firebase to store user and items data
+```
+
+### redux introduced
+
+```
+Action-Root Reducer-Store-DOM display updated state
+
+Flux Pattern
+Action-Dispatcher-Store-View
+```
 
 ### `npm start`
 
