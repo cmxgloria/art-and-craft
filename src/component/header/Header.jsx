@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { auth } from "../../firebase/firebase.utils.js";
 import { connect } from "react-redux";
 import CartIcon from "../cart-icon/CartIcon";
+import CartDropdown from "../cart-dropdown/CartDropdown";
 import "./header.styles.scss";
 
 const Header = ({ currentUser }) => (
@@ -31,6 +32,7 @@ const Header = ({ currentUser }) => (
       )}
       <CartIcon />
     </div>
+    <CartDropdown />
   </div>
 );
 const mapStateToProps = (state) => ({
