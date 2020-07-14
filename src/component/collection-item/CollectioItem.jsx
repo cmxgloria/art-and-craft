@@ -1,28 +1,35 @@
 import React from "react";
+import { connect } from "react-redux";
 
-import SHOP_DATA from "../../pages/shop/shop.data.js";
+import CustomButton from "../custom-button/CustomButton";
+import { addItem } from "../../redux/cart/cart.actions";
 
-import CollectionPreview from "../collection-preview/CollectionPreview";
+import "./collection-item.styles.scss";
 
-class ShopPage extends React.Component {
-  constructor(props) {
-    super(props);
+const CollectionItem = ({ item, addItem }) => {
+  const { name, price, imageUrl } = item;
 
-    this.state = {
-      collections: SHOP_DATA,
-    };
-  }
-
-  render() {
-    const { collections } = this.state;
-    return (
-      <div className="shop-page">
-        {collections.map(({ id, ...otherCollectionProps }) => (
-          <CollectionPreview key={id} {...otherCollectionProps} />
-        ))}
+  return (
+    <div className="collection-item">
+      <div
+        className="image"
+        style={{
+          backgroundImage: `url(${imageUrl})`,
+        }}
+      />
+      <div className="collection-footer">
+        <span className="name">{name}</span>
+        <span className="price">{price}</span>
       </div>
-    );
-  }
-}
+      <CustomButton onClick={() => addItem(item)} inverted>
+        Add to cart
+      </CustomButton>
+    </div>
+  );
+};
 
-export default ShopPage;
+const mapDispatchToProps = (dispatch) => ({
+  addItem: (item) => dispatch(addItem(item)),
+});
+
+export default connect(null, mapDispatchToProps)(CollectionItem);
