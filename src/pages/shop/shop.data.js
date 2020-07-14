@@ -74,9 +74,10 @@ const SHOP_DATA = [
       },
       {
         id: 11,
-        name: "Adidas Yeezy",
-        imageUrl: "https://i.ibb.co/dJbG1cT/yeezy.png",
-        price: 280,
+        name: "rabbit keyring",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/862/877/4065778268_43763277.400x400.jpg",
+        price: 10,
       },
       {
         id: 12,
@@ -290,9 +291,10 @@ const SHOP_DATA = [
       },
       {
         id: 4,
-        name: "Grey Brim",
-        imageUrl: "https://i.ibb.co/RjBLWxB/grey-brim.png",
-        price: 25,
+        name: "cute casual loveheart(pink,blue,blue,white)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2015/700/884/2224488007_1984651542.400x400.jpg",
+        price: 15,
       },
       {
         id: 5,
