@@ -161,16 +161,16 @@ const SHOP_DATA = [
     items: [
       {
         id: 23,
-        name: "Elephant(black,green,white,pink)",
+        name: "fancy flower purse(black,blue,khaki,pink)",
         imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/729/319/9005913927_1511143656.400x400.jpg",
-        price: 25,
+          "https://cbu01.alicdn.com/img/ibank/2018/055/537/9398735550_1424842467.400x400.jpg",
+        price: 15,
       },
       {
         id: 24,
-        name: "Lip-Logo(black&pink)",
+        name: "Totoro(Long&short-black,purple,orange,green)",
         imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2019/935/544/12830445539.80x80.jpg?_=2020",
+          "https://cbu01.alicdn.com/img/ibank/2018/240/363/9454363042_301242762.400x400.jpg",
         price: 25,
       },
       {
@@ -188,9 +188,10 @@ const SHOP_DATA = [
       },
       {
         id: 27,
-        name: "Striped Sweater",
-        imageUrl: "https://i.ibb.co/KmSkMbH/striped-sweater.png",
-        price: 45,
+        name: "Totoro(Long-black,purple,orange,green)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/358/913/9463319853_301242762.400x400.jpg",
+        price: 18,
       },
       {
         id: 28,
@@ -257,9 +258,25 @@ const SHOP_DATA = [
 
       {
         id: 35,
-        name: "Burgundy T-shirt",
-        imageUrl: "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
+        name: "bettle-logo(black,pink&red)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/956/874/11185478659_27799352.400x400.jpg",
         price: 25,
+      },
+      {
+        id: 36,
+        name: "gold-pin(black-white&white-red)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/886/620/12671026688.80x80.jpg?_=2020",
+        price: 25,
+      },
+
+      {
+        id: 37,
+        name: "classic angel(black&pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/757/320/9636023757_1511143656.400x400.jpg",
+        price: 20,
       },
     ],
   },
@@ -282,11 +299,12 @@ const SHOP_DATA = [
           "https://cbu01.alicdn.com/img/ibank/2015/844/634/2178436448_1984651542.400x400.jpg",
         price: 15,
       },
+
       {
         id: 3,
-        name: "with-loveheart(8 colours)",
+        name: "fancy sparkling design",
         imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/416/943/4011349614_1984651542.400x400.jpg",
+          "https://cbu01.alicdn.com/img/ibank/2015/857/327/2479723758_1984651542.400x400.jpg",
         price: 15,
       },
       {
@@ -304,9 +322,10 @@ const SHOP_DATA = [
       },
       {
         id: 6,
-        name: "Palm Tree Cap",
-        imageUrl: "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
-        price: 14,
+        name: "with-loveheart(8 colours)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/416/943/4011349614_1984651542.400x400.jpg",
+        price: 15,
       },
       {
         id: 7,
@@ -335,9 +354,10 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: "plane",
-        imageUrl: "https://i.ibb.co/ZYW3VTp/brown-brim.png",
-        price: 15,
+        name: "Australian&American-logo purse",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/230/274/12692472032_2084417701.400x400.jpg",
+        price: 10,
       },
       {
         id: 2,
