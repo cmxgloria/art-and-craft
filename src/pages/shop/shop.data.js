@@ -160,21 +160,24 @@ const SHOP_DATA = [
     items: [
       {
         id: 23,
-        name: "Blue Tanktop",
-        imageUrl: "https://i.ibb.co/7CQVJNm/blue-tank.png",
+        name: "Elephant(black,green,white,pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/729/319/9005913927_1511143656.400x400.jpg",
         price: 25,
       },
       {
         id: 24,
-        name: "Floral Blouse",
-        imageUrl: "https://i.ibb.co/4W2DGKm/floral-blouse.png",
-        price: 20,
+        name: "Lip-Logo(black&pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/935/544/12830445539.80x80.jpg?_=2020",
+        price: 25,
       },
       {
         id: 25,
-        name: "Floral Dress",
-        imageUrl: "https://i.ibb.co/KV18Ysr/floral-skirt.png",
-        price: 80,
+        name: "angle gorgeous handbag(black)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/968/877/12995778869.80x80.jpg?_=2020",
+        price: 20,
       },
       {
         id: 26,
@@ -209,34 +212,48 @@ const SHOP_DATA = [
     items: [
       {
         id: 30,
-        name: "Camo Down Vest",
-        imageUrl: "https://i.ibb.co/xJS0T3Y/camo-vest.png",
-        price: 325,
-      },
-      {
-        id: 31,
-        name: "Floral T-shirt",
-        imageUrl: "https://i.ibb.co/qMQ75QZ/floral-shirt.png",
-        price: 20,
-      },
-      {
-        id: 32,
-        name: "Black & White Longsleeve",
-        imageUrl: "https://i.ibb.co/55z32tw/long-sleeve.png",
+        name: "Lipstick-Logo(blue,black,pink,grey)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/703/814/4381418307_27799352.400x400.jpg",
         price: 25,
       },
       {
+        id: 31,
+        name: "Elephant-Logo(black,green,white,pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/729/319/9005913927_1511143656.400x400.jpg",
+        price: 25,
+      },
+      {
+        id: 32,
+        name: "hello-kitty handbag(white,lightpink,hotpink,gold)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/041/247/7771742140_1460651700.400x400.jpg",
+        price: 15,
+      },
+
+      {
         id: 33,
-        name: "Pink T-shirt",
-        imageUrl: "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+        name: "Cool-middle-strip(pink&black)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/547/378/7735873745_27799352.400x400.jpg",
+        price: 25,
+      },
+      {
+        id: 100,
+        name: "Sexy-mouth-logo(black&pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/935/544/12830445539.80x80.jpg?_=2020",
         price: 25,
       },
       {
         id: 34,
-        name: "Jean Long Sleeve",
-        imageUrl: "https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png",
-        price: 40,
+        name: "double-colour",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2019/446/131/11249131644.80x80.jpg?_=2020",
+        price: 20,
       },
+
       {
         id: 35,
         name: "Burgundy T-shirt",
@@ -252,22 +269,24 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: "plane",
-        imageUrl: "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+        name: "star-light(10 different colour)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/484/876/4466678484_1984651542.400x400.jpg",
         price: 15,
       },
       {
         id: 2,
-        name: "tank",
+        name: "ocean(darkblue,lightblue,white)",
         imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/800/997/9490799008_2022656010.400x400.jpg",
+          "https://cbu01.alicdn.com/img/ibank/2015/844/634/2178436448_1984651542.400x400.jpg",
         price: 15,
       },
       {
         id: 3,
-        name: "paris-tower",
-        imageUrl: "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
-        price: 10,
+        name: "with-loveheart(8 colours)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/416/943/4011349614_1984651542.400x400.jpg",
+        price: 15,
       },
       {
         id: 4,
@@ -311,68 +330,6 @@ const SHOP_DATA = [
     id: 7,
     title: "Sale",
     routeName: "sale",
-    items: [
-      {
-        id: 1,
-        name: "plane",
-        imageUrl: "https://i.ibb.co/ZYW3VTp/brown-brim.png",
-        price: 15,
-      },
-      {
-        id: 2,
-        name: "tank",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/800/997/9490799008_2022656010.400x400.jpg",
-        price: 15,
-      },
-      {
-        id: 3,
-        name: "paris-tower",
-        imageUrl: "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
-        price: 10,
-      },
-      {
-        id: 4,
-        name: "Grey Brim",
-        imageUrl: "https://i.ibb.co/RjBLWxB/grey-brim.png",
-        price: 25,
-      },
-      {
-        id: 5,
-        name: "Green Beanie",
-        imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
-        price: 18,
-      },
-      {
-        id: 6,
-        name: "Palm Tree Cap",
-        imageUrl: "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
-        price: 14,
-      },
-      {
-        id: 7,
-        name: "Red Beanie",
-        imageUrl: "https://i.ibb.co/bLB646Z/red-beanie.png",
-        price: 18,
-      },
-      {
-        id: 8,
-        name: "Wolf Cap",
-        imageUrl: "https://i.ibb.co/1f2nWMM/wolf-cap.png",
-        price: 14,
-      },
-      {
-        id: 9,
-        name: "Blue Snapback",
-        imageUrl: "https://i.ibb.co/X2VJP2W/blue-snapback.png",
-        price: 16,
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "handmade-art",
-    routeName: "handmade-art",
     items: [
       {
         id: 1,
