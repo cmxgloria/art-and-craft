@@ -20,7 +20,7 @@ const SHOP_DATA = [
       },
       {
         id: 3,
-        name: "A3small paris-tower with diamond 8 colors(big$15)",
+        name: "A3small paris-tower- (8 colors)(big$15)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/809/211/4310112908_170595664.400x400.jpg",
         price: 10,
@@ -76,7 +76,7 @@ const SHOP_DATA = [
       },
       {
         id: 10,
-        name: "K2rabbit keyring",
+        name: "K2rabbit keyring(10 colours)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/862/877/4065778268_43763277.400x400.jpg",
         price: 10,
@@ -195,7 +195,7 @@ const SHOP_DATA = [
       },
       {
         id: 25,
-        name: "L4handmade purse",
+        name: "L4handmade Thailand purse(40 designs)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2016/240/216/3101612042_645572075.400x400.jpg",
         price: 10,
@@ -350,7 +350,7 @@ const SHOP_DATA = [
 
       {
         id: 44,
-        name: "J3fancy sparkling design",
+        name: "J3fancy sparkling design(pink,blue,multi,purple,gold)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2015/857/327/2479723758_1984651542.400x400.jpg",
         price: 15,
@@ -413,14 +413,14 @@ const SHOP_DATA = [
       },
       {
         id: 52,
-        name: "S2kitty purse",
+        name: "S2kitty & Unicorn purse(more designs)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/111/657/9565756111_176921582.400x400.jpg",
         price: 7,
       },
       {
         id: 53,
-        name: "S3angle handbag",
+        name: "S3angle handbag(black&pink)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/757/320/9636023757_1511143656.400x400.jpg",
         price: 18,
