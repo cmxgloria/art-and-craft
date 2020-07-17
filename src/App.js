@@ -7,6 +7,8 @@ import ShopPage from "./pages/shop/ShopPage.jsx";
 import Header from "./component/header/Header.jsx";
 // import SignIn from "./component/sign-in/SignIn.jsx";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/SignInAndSignUpPage.jsx";
+import CheckoutPage from "./pages/checkout/CheckoutPage.jsx";
+
 import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
 import { setCurrentUser } from "./redux/user/user.actions";
 import { createStructuredSelector } from "reselect";
@@ -78,6 +80,7 @@ class App extends React.Component {
           <Route exact path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
           <Route path="/contact" component={Contact} />
+          <Route exact path="/checkout" component={CheckoutPage} />
           <Route
             exact
             path="/signin"
