@@ -2,7 +2,7 @@ const SHOP_DATA = [
   {
     id: 1,
     title: "Handmade-art",
-    routeName: "handmade-art",
+    routeName: "handmadeart",
     items: [
       {
         id: 1,
@@ -128,7 +128,7 @@ const SHOP_DATA = [
   {
     id: 3,
     title: "Children-purse",
-    routeName: "children-purse",
+    routeName: "childrenpurse",
     items: [
       {
         id: 17,
@@ -170,7 +170,7 @@ const SHOP_DATA = [
   {
     id: 4,
     title: "Lady-purse",
-    routeName: "lady-purse",
+    routeName: "ladypurse",
     items: [
       {
         id: 22,
