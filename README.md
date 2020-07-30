@@ -99,3 +99,9 @@ https://www.crwn-clothing.com/
 ```
 
 ## stripe
+
+## redux
+
+## GrahpQL
+
+appollo-boost
