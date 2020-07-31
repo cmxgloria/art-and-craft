@@ -14,7 +14,8 @@ import { setCurrentUser } from "./redux/user/user.actions";
 import { createStructuredSelector } from "reselect";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 
-import "./App.css";
+// import "./App.css";
+import { GlobalStyle } from "./global.styles";
 
 const HandmadeArt = () => (
   <div>
@@ -75,6 +76,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
+        <GlobalStyle />
         <Header />
         <Switch>
           <Route exact path="/" component={HomePage} />
