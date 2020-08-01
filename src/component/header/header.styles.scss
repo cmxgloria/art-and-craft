@@ -13,6 +13,10 @@
   .logo-container {
     height: 100%;
     margin: -50px 0px;
+    @media screen and (max-width: 800px) {
+      width: 10px;
+      margin: -60px -20px -40px -100px;
+    }
   }
 
   .options {
