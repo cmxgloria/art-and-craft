@@ -60,6 +60,59 @@ const SHOP_DATA = {
           "https://cbu01.alicdn.com/img/ibank/2017/388/500/4018005883_2022656010.400x400.jpg",
         price: 25,
       },
+      {
+        id: 130,
+        name: "A9large paris(4 color)",
+        imageUrl: "https://i.imgur.com/1R8C74q.jpg",
+        price: 15,
+      },
+
+      {
+        id: 131,
+        name: "A10large metal tank",
+        imageUrl: "https://i.imgur.com/XZOZ6An.jpg",
+        price: 25,
+      },
+      {
+        id: 132,
+        name: "A11small paris tower",
+        imageUrl: "https://i.imgur.com/vLyeTqU.jpg",
+        price: 10,
+      },
+      {
+        id: 133,
+        name: "A12large cool metal tank",
+        imageUrl: "https://i.imgur.com/Pf8ZudL.jpg",
+        price: 25,
+      },
+      {
+        id: 7,
+        name: "A7small bullet tank",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
+        price: 15,
+      },
+      {
+        id: 7,
+        name: "A7small bullet tank",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
+        price: 15,
+      },
+      {
+        id: 7,
+        name: "A7small bullet tank",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
+        price: 15,
+      },
+      {
+        id: 7,
+        name: "A7small bullet tank",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
+        price: 15,
+      },
     ],
   },
   keyring: {
@@ -227,20 +280,15 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/5baGkNV.jpg",
         price: 10,
       },
+
       {
         id: 97,
-        name: "C13short unicorn purse",
-        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        name: "C13mix purse",
+        imageUrl: "https://i.imgur.com/1c3vVla.jpg",
         price: 10,
       },
       {
         id: 98,
-        name: "short unicorn purse",
-        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
-        price: 10,
-      },
-      {
-        id: 99,
         name: "short unicorn purse",
         imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
         price: 10,
@@ -596,14 +644,14 @@ const SHOP_DATA = {
         name: "J8cool blue ocean crystal",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/126/843/7852348621_2045298408.400x400.jpg",
-        price: 14,
+        price: 15,
       },
       {
         id: 50,
         name: "J9handmade crystal with ball",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        price: 15,
       },
 
       {
@@ -613,53 +661,102 @@ const SHOP_DATA = {
         price: 8,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        id: 111,
+        name: "J11red love logo",
+        imageUrl: "https://i.imgur.com/0EIyUC7.png",
+        price: 15,
+      },
+      {
+        id: 112,
+        name: "J12black love logo",
+        imageUrl: "https://i.imgur.com/6RPitjz.png",
         price: 16,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 113,
+        name: "J13green love logo",
+        imageUrl: "https://i.imgur.com/voxZg52.png",
+        price: 15,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 114,
+        name: "J14pink pearl",
+        imageUrl: "https://i.imgur.com/eiHdGCw.png",
+        price: 15,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 115,
+        name: "J15 casual grey",
+        imageUrl: "https://i.imgur.com/NV6mkDP.png",
+        price: 15,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 116,
+        name: "J16mix sparkling",
+        imageUrl: "https://i.imgur.com/mCm9sfA.png",
+        price: 15,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 117,
+        name: "J17 blue dimond",
+        imageUrl: "https://i.imgur.com/lC5GFIa.png",
+        price: 15,
       },
       {
-        id: 50,
-        name: "J9handmade crystal with ball",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
-        price: 16,
+        id: 118,
+        name: "J17 multi dimond",
+        imageUrl: "https://i.imgur.com/Mfdz8Ho.png",
+        price: 15,
+      },
+      {
+        id: 118,
+        name: "J18pink crown",
+        imageUrl: "https://i.imgur.com/R9cj1wv.png",
+        price: 15,
+      },
+      {
+        id: 119,
+        name: "J19design logo",
+        imageUrl: "https://i.imgur.com/FLIEjnH.png",
+        price: 15,
+      },
+
+      {
+        id: 120,
+        name: "J20 mix",
+        imageUrl: "https://i.imgur.com/W0r2KML.jpg",
+        price: 15,
+      },
+
+      {
+        id: 121,
+        name: "J21 mix crystal bracelet",
+        imageUrl: "https://i.imgur.com/4NhWmZE.jpg",
+        price: 15,
+      },
+      {
+        id: 122,
+        name: "J22 mix crystal bracelet",
+        imageUrl: "https://i.imgur.com/05qZ8va.jpg",
+        price: 15,
+      },
+      {
+        id: 123,
+        name: "J23 necklace",
+        imageUrl: "https://i.imgur.com/zRfP2kH.jpg",
+        price: 12,
+      },
+      {
+        id: 124,
+        name: "J24 mix crystal bracelet",
+        imageUrl: "https://i.imgur.com/DAVyb6e.jpg",
+        price: 15,
+      },
+      {
+        id: 124,
+        name: "J24 mix crystal bracelet",
+        imageUrl: "https://i.imgur.com/5zUSAC2.jpg",
+        price: 15,
       },
     ],
   },
