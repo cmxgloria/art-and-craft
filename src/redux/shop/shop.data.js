@@ -237,6 +237,25 @@ const SHOP_DATA = {
           "https://cbu01.alicdn.com/img/ibank/2017/197/840/6784048791_1324055139.400x400.jpg",
         price: 18,
       },
+      {
+        id: 57,
+        name: "owl purse(pink,blue,black)",
+        imageUrl: "https://i.imgur.com/Mlec9cp.jpg",
+        price: 18,
+      },
+      {
+        id: 58,
+        name: "Dollar-log Purse(AUS,US)",
+        imageUrl: "https://i.imgur.com/CpeTOFA.jpg",
+        price: 10,
+      },
+
+      {
+        id: 59,
+        name: "Dollar-log Purse(AUS,US)",
+        imageUrl: " https://i.imgur.com/8xfthiB.jpg",
+        price: 10,
+      },
     ],
   },
   handbag: {
@@ -324,6 +343,13 @@ const SHOP_DATA = {
           "B11handmade Thailand handbag with long strap(4 color-big available)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/098/001/4243100890_645572075.400x400.jpg",
+        price: 15,
+      },
+
+      {
+        id: 70,
+        name: "B12Cool handbag",
+        imageUrl: "https://i.imgur.com/cNNW6i8.png",
         price: 15,
       },
     ],
