@@ -85,34 +85,6 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/Pf8ZudL.jpg",
         price: 25,
       },
-      {
-        id: 7,
-        name: "A7small bullet tank",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
-        price: 15,
-      },
-      {
-        id: 7,
-        name: "A7small bullet tank",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
-        price: 15,
-      },
-      {
-        id: 7,
-        name: "A7small bullet tank",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
-        price: 15,
-      },
-      {
-        id: 7,
-        name: "A7small bullet tank",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
-        price: 15,
-      },
     ],
   },
   keyring: {
@@ -479,8 +451,7 @@ const SHOP_DATA = {
       {
         id: 37,
         name: "B7double-colour",
-        imageUrl:
-          "https://cbu01.alicdn.com/img/ibank/2019/446/131/11249131644.80x80.jpg?_=2020",
+        imageUrl: "https://i.imgur.com/ITnNkCL.jpg",
         price: 20,
       },
       {
@@ -566,21 +537,58 @@ const SHOP_DATA = {
       },
       {
         id: 78,
-        name: "B20 cat handbag",
-        imageUrl: "https://i.imgur.com/cNNW6i8.png",
+        name: "B20 bettle black",
+        imageUrl: "https://i.imgur.com/P6S7j6g.png",
         price: 20,
       },
       {
         id: 79,
-        name: "B12Cool handbag",
-        imageUrl: "https://i.imgur.com/cNNW6i8.png",
-        price: 15,
+        name: "B21 bettle pink",
+        imageUrl: "https://i.imgur.com/aGuu7wj.png",
+        price: 20,
       },
       {
-        id: 70,
-        name: "B12Cool handbag",
-        imageUrl: "https://i.imgur.com/cNNW6i8.png",
-        price: 15,
+        id: 80,
+        name: "B22 bettle red",
+        imageUrl: "https://i.imgur.com/QzLKih1.png",
+        price: 20,
+      },
+
+      {
+        id: 81,
+        name: "B23 angle black",
+        imageUrl: "https://i.imgur.com/V8sU12N.png",
+        price: 25,
+      },
+      {
+        id: 82,
+        name: "B24 lipstick pink",
+        imageUrl: "https://i.imgur.com/YPxqi1A.png",
+        price: 25,
+      },
+      {
+        id: 83,
+        name: "B25 lipstick blue",
+        imageUrl: "https://i.imgur.com/rO9c2S0.png",
+        price: 25,
+      },
+      {
+        id: 84,
+        name: "B26 lipstick grey",
+        imageUrl: "https://i.imgur.com/5Ut2j64.jpg",
+        price: 25,
+      },
+      {
+        id: 85,
+        name: "B22 strip pink",
+        imageUrl: "https://i.imgur.com/BAHUmnw.jpg",
+        price: 25,
+      },
+      {
+        id: 86,
+        name: "B22 strip black",
+        imageUrl: "https://i.imgur.com/8HJmlhW.jpg",
+        price: 25,
       },
     ],
   },
