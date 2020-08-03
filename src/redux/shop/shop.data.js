@@ -83,10 +83,10 @@ const SHOP_DATA = {
       },
       {
         id: 11,
-        name: "K3ball keyring(10 colours)",
+        name: "K3pompom(10 colours)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/055/605/4048506550_43763277.400x400.jpg",
-        price: 5,
+        price: 6,
       },
       {
         id: 12,
@@ -122,6 +122,24 @@ const SHOP_DATA = {
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/969/615/667516969_935227936.400x400.jpg",
         price: 7,
+      },
+      {
+        id: 100,
+        name: "K9medium(buy3get1free)",
+        imageUrl: "https://i.imgur.com/6J0iyd0.jpg",
+        price: 6,
+      },
+      {
+        id: 101,
+        name: "K10large(buy3get1free)",
+        imageUrl: "https://i.imgur.com/TyC3wAA.jpg",
+        price: 7,
+      },
+      {
+        id: 102,
+        name: "K11pompom",
+        imageUrl: "https://i.imgur.com/Vu49XQX.jpg",
+        price: 6,
       },
     ],
   },
@@ -163,6 +181,68 @@ const SHOP_DATA = {
         name: "C5elephant purse(6 designs)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2019/462/984/10884489264_1872069914.400x400.jpg",
+        price: 10,
+      },
+
+      {
+        id: 90,
+        name: "C6cat dog coinpurse",
+        imageUrl: "https://i.imgur.com/gmfXdWx.jpg",
+        price: 6,
+      },
+      {
+        id: 91,
+        name: "C7boy purse1",
+        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        price: 10,
+      },
+
+      {
+        id: 92,
+        name: "C8boy purse2",
+        imageUrl: "https://i.imgur.com/FWTLoJF.jpg",
+        price: 10,
+      },
+      {
+        id: 93,
+        name: "C9mix girl purse",
+        imageUrl: "https://i.imgur.com/RScGjrJ.jpg",
+        price: 10,
+      },
+      {
+        id: 94,
+        name: "C10mix hk,forzen...",
+        imageUrl: "https://i.imgur.com/os4TPvB.jpg",
+        price: 10,
+      },
+      {
+        id: 95,
+        name: "C11short unicorn purse",
+        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        price: 10,
+      },
+      {
+        id: 96,
+        name: "C12long unicorn purse",
+        imageUrl: "https://i.imgur.com/5baGkNV.jpg",
+        price: 10,
+      },
+      {
+        id: 97,
+        name: "C13short unicorn purse",
+        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        price: 10,
+      },
+      {
+        id: 98,
+        name: "short unicorn purse",
+        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        price: 10,
+      },
+      {
+        id: 99,
+        name: "short unicorn purse",
+        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
         price: 10,
       },
     ],
@@ -245,16 +325,58 @@ const SHOP_DATA = {
       },
       {
         id: 58,
-        name: "Dollar-log Purse(AUS,US)",
+        name: "horse purse",
+        imageUrl: "https://i.imgur.com/4VVPqUk.jpg",
+        price: 18,
+      },
+      {
+        id: 59,
+        name: "Australian-logo Purse",
         imageUrl: "https://i.imgur.com/CpeTOFA.jpg",
         price: 10,
       },
 
       {
-        id: 59,
-        name: "Dollar-log Purse(AUS,US)",
-        imageUrl: " https://i.imgur.com/8xfthiB.jpg",
+        id: 60,
+        name: "US Dollar-logo Purse",
+        imageUrl: "https://i.imgur.com/8xfthiB.jpg",
         price: 10,
+      },
+      {
+        id: 61,
+        name: "Purse(AUS,US*2)",
+        imageUrl: "https://i.imgur.com/gWZeVBn.jpg",
+        price: 10,
+      },
+      {
+        id: 62,
+        name: "Cat purse(purple,hotpink,blue,black)",
+        imageUrl: "https://i.imgur.com/XIw08zo.jpg",
+        price: 15,
+      },
+      {
+        id: 63,
+        name: "Leaf purse(red,black,khaki",
+        imageUrl: "https://i.imgur.com/m9Sjk5O.jpg",
+        price: 15,
+      },
+      {
+        id: 64,
+        name: "mix flower purse)",
+        imageUrl: "https://i.imgur.com/05rGbil.jpg",
+        price: 15,
+      },
+      {
+        id: 65,
+        name: "mix purse1",
+        imageUrl: "https://i.imgur.com/15GLNwM.jpg",
+        price: 18,
+      },
+      {
+        id: 66,
+        name: "mix purse2",
+        imageUrl: "https://i.imgur.com/CSdKc9V.jpg",
+        price: 18,
       },
     ],
   },
@@ -352,6 +474,66 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/cNNW6i8.png",
         price: 15,
       },
+      {
+        id: 71,
+        name: "B13elephant handbag",
+        imageUrl: "https://i.imgur.com/iJs4W5A.png",
+        price: 25,
+      },
+      {
+        id: 72,
+        name: "B14elephant handbag",
+        imageUrl: "https://i.imgur.com/W1hPPm2.png",
+        price: 25,
+      },
+      {
+        id: 73,
+        name: "B15Kiss b handbag",
+        imageUrl: "https://i.imgur.com/WrxgYA2.png",
+        price: 25,
+      },
+      {
+        id: 74,
+        name: "B16Kiss p handbag",
+        imageUrl: "https://i.imgur.com/jKUsQzS.png",
+        price: 25,
+      },
+      {
+        id: 75,
+        name: "B17S p-Thai handbag",
+        imageUrl: "https://i.imgur.com/0kdgN0l.png",
+        price: 15,
+      },
+      {
+        id: 76,
+        name: "B18 shoulder handbag",
+        imageUrl: "https://i.imgur.com/zu1sBm8.jpg",
+        price: 20,
+      },
+      {
+        id: 77,
+        name: "B19 dog handbag",
+        imageUrl: "https://i.imgur.com/HMEAOqQ.jpg",
+        price: 20,
+      },
+      {
+        id: 78,
+        name: "B20 cat handbag",
+        imageUrl: "https://i.imgur.com/cNNW6i8.png",
+        price: 20,
+      },
+      {
+        id: 79,
+        name: "B12Cool handbag",
+        imageUrl: "https://i.imgur.com/cNNW6i8.png",
+        price: 15,
+      },
+      {
+        id: 70,
+        name: "B12Cool handbag",
+        imageUrl: "https://i.imgur.com/cNNW6i8.png",
+        price: 15,
+      },
     ],
   },
   jewellery: {
@@ -415,6 +597,62 @@ const SHOP_DATA = {
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/126/843/7852348621_2045298408.400x400.jpg",
         price: 14,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+
+      {
+        id: 110,
+        name: "J10crystal bracelet(8 color)",
+        imageUrl: "https://i.imgur.com/3tmgHjw.jpg",
+        price: 8,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
+      },
+      {
+        id: 50,
+        name: "J9handmade crystal with ball",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2017/456/454/7838454654_2045298408.400x400.jpg",
+        price: 16,
       },
       {
         id: 50,
