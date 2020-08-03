@@ -265,6 +265,31 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
         price: 10,
       },
+
+      {
+        id: 171,
+        name: "C15 cat dog",
+        imageUrl: "https://i.imgur.com/bWnGWC0.jpg",
+        price: 10,
+      },
+      {
+        id: 172,
+        name: "C16 totoro purse",
+        imageUrl: "https://i.imgur.com/qByWe8w.jpg",
+        price: 10,
+      },
+      {
+        id: 173,
+        name: "C17 AUS logo",
+        imageUrl: "https://i.imgur.com/qqnADB8.jpg",
+        price: 10,
+      },
+      {
+        id: 174,
+        name: "C18 Paris,minion purse",
+        imageUrl: "https://i.imgur.com/FAR3UXG.jpg",
+        price: 10,
+      },
     ],
   },
   ladypurse: {
@@ -443,8 +468,32 @@ const SHOP_DATA = {
       },
       {
         id: 167,
-        name: "L27long tototo",
+        name: "L27 long tototo",
         imageUrl: "https://i.imgur.com/eix7qma.png",
+        price: 18,
+      },
+      {
+        id: 168,
+        name: "L28 short tototo",
+        imageUrl: "https://i.imgur.com/zwDOh2S.png",
+        price: 18,
+      },
+      {
+        id: 169,
+        name: "L28 short cat",
+        imageUrl: "https://i.imgur.com/Z4YP42U.png",
+        price: 15,
+      },
+      {
+        id: 170,
+        name: "L29 long cat",
+        imageUrl: "https://i.imgur.com/1BgylN1.png",
+        price: 18,
+      },
+      {
+        id: 176,
+        name: "L30 long cat",
+        imageUrl: "https://i.imgur.com/S0RKrPe.jpg",
         price: 18,
       },
     ],
