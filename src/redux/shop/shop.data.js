@@ -6,35 +6,35 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: "A1-large metal tank(dark grey available)",
+        name: "A1-large metal tank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/261/352/9384253162_2022656010.400x400.jpg",
         price: 25,
       },
       {
         id: 2,
-        name: "A2bullet small tank&plane(big$25)",
+        name: "A2bullet s tank&plane",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2015/523/844/2581448325_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 3,
-        name: "A3small paris-tower- (8 colors)(big$15)",
+        name: "A3s tower-8 colors",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/809/211/4310112908_170595664.400x400.jpg",
         price: 10,
       },
       {
         id: 4,
-        name: "A4motor-bike(copper&dark grey-differnt design)",
+        name: "A4motor-bike(copper&grey)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2014/650/967/1518769056_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 5,
-        name: "A5big bullet tank(2 design with-wheel or without-wheel)",
+        name: "A5bullet tank(wheel or no-wheel)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/788/037/9490730887_2022656010.400x400.jpg",
         price: 25,
@@ -94,7 +94,7 @@ const SHOP_DATA = {
     items: [
       {
         id: 9,
-        name: "K1handmade cystal(80 designs-small,medium,large) ",
+        name: "K1handmade cystal-80 designs ",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/778/274/608472877_935227936.400x400.jpg",
         price: 5,
@@ -115,35 +115,35 @@ const SHOP_DATA = {
       },
       {
         id: 12,
-        name: "K4handmade crystal keyring-medium(50 design)",
+        name: "K4crystal-medium(50 design)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/647/484/665484746_935227936.400x400.jpg",
         price: 6,
       },
       {
         id: 13,
-        name: "K5handmade crystal keyring-medium(50 design)",
+        name: "K5crystal keyring-(50 design)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2013/664/902/1086209466_935227936.400x400.jpg",
         price: 6,
       },
       {
         id: 14,
-        name: "K6pokemon keyring(50 designs)",
+        name: "K6pokemon keyring",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/170/382/3995283071_374272229.400x400.jpg",
         price: 4,
       },
       {
         id: 15,
-        name: "K7handmadde rose keyring(80 designs-buy3get1free)",
+        name: "K7 buy3get1free",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2013/906/605/761506609_935227936.400x400.jpg",
         price: 5,
       },
       {
         id: 16,
-        name: "K8large kitty(30 design-buy3get1free)",
+        name: "K8large buy3get1free",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/969/615/667516969_935227936.400x400.jpg",
         price: 7,
