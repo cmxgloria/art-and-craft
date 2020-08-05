@@ -185,25 +185,7 @@ const SHOP_DATA = {
         price: 8,
       },
       {
-        id: 102,
-        name: "K11pompom",
-        imageUrl: "https://i.imgur.com/Vu49XQX.jpg",
-        price: 6,
-      },
-      {
-        id: 102,
-        name: "K11pompom",
-        imageUrl: "https://i.imgur.com/Vu49XQX.jpg",
-        price: 6,
-      },
-      {
-        id: 102,
-        name: "K11pompom",
-        imageUrl: "https://i.imgur.com/Vu49XQX.jpg",
-        price: 6,
-      },
-      {
-        id: 103,
+        id: 106,
         name: "K12 L keyring",
         imageUrl: "https://i.imgur.com/h0u3sdK.jpg",
         price: 7,
