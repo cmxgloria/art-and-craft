@@ -755,6 +755,13 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/MdwL7oF.jpg",
         price: 25,
       },
+      {
+        id: 154,
+        name: "B36angle handbag(black&pink)",
+        imageUrl:
+          "https://cbu01.alicdn.com/img/ibank/2018/757/320/9636023757_1511143656.400x400.jpg",
+        price: 25,
+      },
     ],
   },
   jewellery: {
@@ -963,7 +970,7 @@ const SHOP_DATA = {
         name: "S3angle handbag(black&pink)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/757/320/9636023757_1511143656.400x400.jpg",
-        price: 18,
+        price: 22,
       },
       {
         id: 54,
