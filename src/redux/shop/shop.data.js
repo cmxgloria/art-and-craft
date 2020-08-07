@@ -323,7 +323,7 @@ const SHOP_DATA = {
     items: [
       {
         id: 22,
-        name: "L1fancy flower purse(black,blue,khaki,pink)",
+        name: "L1flower purse(black,blue,khaki,pink)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/055/537/9398735550_1424842467.400x400.jpg",
         price: 15,
@@ -337,7 +337,7 @@ const SHOP_DATA = {
       },
       {
         id: 24,
-        name: "L3fancy cat purse(purple,hotpink,blue,black)",
+        name: "L3cat purse(purple,hotpink,blue,black)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2015/569/025/2639520965_1424842467.400x400.jpg",
         price: 15,
@@ -358,7 +358,7 @@ const SHOP_DATA = {
       },
       {
         id: 27,
-        name: "L6leaf purse(Long&short:red,purple,black,khaki)",
+        name: "L6leaf purse(L&S:red,purple,black,khaki)",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/525/741/8706147525_1324055139.400x400.jpg",
         price: 15,

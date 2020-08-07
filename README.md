@@ -104,5 +104,13 @@ https://www.crwn-clothing.com/
 
 ## GrahpQL
 
-appollo-boost
-react-appollo
+## useCallback & useMemo from React Hook
+
+```
+react lazy, suspense and memo
+useCallback to use to remember the function & useMemo to use to remembert the value
+
+
+apollo-boost
+react-apollo
+```
