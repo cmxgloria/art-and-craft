@@ -6,21 +6,21 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: "A1-large metal tank",
+        name: "A1large metal tank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/261/352/9384253162_2022656010.400x400.jpg",
         price: 25,
       },
       {
         id: 2,
-        name: "A2bullet s tank&plane",
+        name: "A2 plane",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2015/523/844/2581448325_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 3,
-        name: "A3s tower-8 colors",
+        name: "A3tower-8 colors",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/809/211/4310112908_170595664.400x400.jpg",
         price: 10,
@@ -316,10 +316,10 @@ const SHOP_DATA = {
       },
     ],
   },
-  ladypurse: {
+  purse: {
     id: 4,
-    title: "Lady-purse",
-    routeName: "ladypurse",
+    title: "Purse",
+    routeName: "purse",
     items: [
       {
         id: 22,

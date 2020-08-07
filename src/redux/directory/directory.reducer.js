@@ -22,12 +22,12 @@ const INITIAL_STATE = {
       linkUrl: "shop/childrenpurse",
     },
     {
-      title: "lady-purse",
+      title: "purse",
       imageUrl:
         "https://cbu01.alicdn.com/img/ibank/2019/041/222/11216222140_301242762.400x400.jpg",
       size: "small",
       id: 4,
-      linkUrl: "shop/ladypurse",
+      linkUrl: "shop/purse",
     },
     {
       title: "handbag",
