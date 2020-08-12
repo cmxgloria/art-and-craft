@@ -114,3 +114,7 @@ useCallback to use to remember the function & useMemo to use to remembert the va
 apollo-boost
 react-apollo
 ```
+
+## convert my app to PWA
+
+yarn add express-sslify
