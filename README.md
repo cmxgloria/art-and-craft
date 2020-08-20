@@ -118,3 +118,24 @@ react-apollo
 ## convert my app to PWA
 
 yarn add express-sslify
+check "Audits" on inspector, this react is easy to complier to C
+
+## firebase
+
+```
+in database--rules---(
+service cloud.firestore {
+match /databases/{database}/documents {
+mathch /users/{userId}{
+allow get, create, update: if request.auth != null && request.auth.uid == userId;
+}
+mathch /collections/{collection}{
+allow read:
+allow write: if request.auth != null && request.auth.uid == "hkhuyeakhzShgow12";
+}
+}
+})
+"create, update " those can use "write"
+
+Then we could test in simulation section(create get update delete ) to test the path is working or not(past the auth.uid to test on or off line )
+```

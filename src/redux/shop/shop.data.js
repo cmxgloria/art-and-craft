@@ -6,82 +6,82 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: "A1large metal tank",
+        name: "A1tank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/261/352/9384253162_2022656010.400x400.jpg",
         price: 25,
       },
       {
         id: 2,
-        name: "A2 plane",
+        name: "A2plane",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2015/523/844/2581448325_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 3,
-        name: "A3tower-8 colors",
+        name: "A3tower",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/809/211/4310112908_170595664.400x400.jpg",
         price: 10,
       },
       {
         id: 4,
-        name: "A4motor-bike(copper&grey)",
+        name: "A4motorbike",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2014/650/967/1518769056_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 5,
-        name: "A5bullet tank(wheel or no-wheel)",
+        name: "A5tank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/788/037/9490730887_2022656010.400x400.jpg",
         price: 25,
       },
       {
         id: 6,
-        name: "A6large bullet plane",
+        name: "A6plane",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2014/757/004/1807400757_2022656010.400x400.jpg",
         price: 20,
       },
       {
         id: 7,
-        name: "A7small bullet tank",
+        name: "A7 tank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2018/017/275/9409572710_2022656010.400x400.jpg",
         price: 15,
       },
       {
         id: 8,
-        name: "A8new design metal tank",
+        name: "A8ntank",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/388/500/4018005883_2022656010.400x400.jpg",
         price: 25,
       },
       {
         id: 130,
-        name: "A9large paris(4 color)",
+        name: "A9tower",
         imageUrl: "https://i.imgur.com/1R8C74q.jpg",
         price: 15,
       },
 
       {
         id: 131,
-        name: "A10large metal tank",
+        name: "A10tank",
         imageUrl: "https://i.imgur.com/XZOZ6An.jpg",
         price: 25,
       },
       {
         id: 132,
-        name: "A11small paris tower",
+        name: "A11tower",
         imageUrl: "https://i.imgur.com/vLyeTqU.jpg",
         price: 10,
       },
       {
         id: 133,
-        name: "A12large cool metal tank",
+        name: "A12tank",
         imageUrl: "https://i.imgur.com/Pf8ZudL.jpg",
         price: 25,
       },
@@ -94,42 +94,42 @@ const SHOP_DATA = {
     items: [
       {
         id: 9,
-        name: "K1handmade cystal-80 designs ",
+        name: "K1-80 designs ",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/778/274/608472877_935227936.400x400.jpg",
         price: 5,
       },
       {
         id: 10,
-        name: "K2rabbit keyring(10 colours)",
+        name: "K2-10 colours",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/862/877/4065778268_43763277.400x400.jpg",
         price: 10,
       },
       {
         id: 11,
-        name: "K3pompom(10 colours)",
+        name: "K3-10 colours",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/055/605/4048506550_43763277.400x400.jpg",
         price: 6,
       },
       {
         id: 12,
-        name: "K4crystal-medium(50 design)",
+        name: "K4medium-50 design",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/647/484/665484746_935227936.400x400.jpg",
         price: 6,
       },
       {
         id: 13,
-        name: "K5crystal keyring-(50 design)",
+        name: "K5-50 design",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2013/664/902/1086209466_935227936.400x400.jpg",
         price: 6,
       },
       {
         id: 14,
-        name: "K6pokemon keyring",
+        name: "K6pokemon",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2017/170/382/3995283071_374272229.400x400.jpg",
         price: 4,
@@ -143,7 +143,7 @@ const SHOP_DATA = {
       },
       {
         id: 16,
-        name: "K8large buy3get1free",
+        name: "K8-buy3get1free",
         imageUrl:
           "https://cbu01.alicdn.com/img/ibank/2012/969/615/667516969_935227936.400x400.jpg",
         price: 7,
