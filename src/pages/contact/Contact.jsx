@@ -8,6 +8,10 @@ export default class Contact extends React.Component {
         <h1>Gloria</h1>
         <h2>Email: smile168@live.com.au</h2>
         <h2>
+          I am a website designer as well. Happy to build your own awesome
+          website.
+        </h2>
+        <h2>
           Payment: Please Place Order in the Cart,Take Checkout Photo to Me then
           I Organise Payment
         </h2>
