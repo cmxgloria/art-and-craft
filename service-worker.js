@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/art-and-craft/precache-manifest.0e802dce6dfb8e3f3a6e547959c57368.js"
+  "/art-and-craft/precache-manifest.97e836dee09c0d7a14e61da3680048fd.js"
 );
 
 self.addEventListener('message', (event) => {

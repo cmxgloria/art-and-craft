@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/art-and-craft/static/css/main.0e51fd6e.chunk.css",
-    "main.js": "/art-and-craft/static/js/main.9dc87b95.chunk.js",
-    "main.js.map": "/art-and-craft/static/js/main.9dc87b95.chunk.js.map",
+    "main.js": "/art-and-craft/static/js/main.54aa598a.chunk.js",
+    "main.js.map": "/art-and-craft/static/js/main.54aa598a.chunk.js.map",
     "runtime-main.js": "/art-and-craft/static/js/runtime-main.00c9c4dd.js",
     "runtime-main.js.map": "/art-and-craft/static/js/runtime-main.00c9c4dd.js.map",
     "static/js/2.2c9b0e93.chunk.js": "/art-and-craft/static/js/2.2c9b0e93.chunk.js",
     "static/js/2.2c9b0e93.chunk.js.map": "/art-and-craft/static/js/2.2c9b0e93.chunk.js.map",
     "index.html": "/art-and-craft/index.html",
-    "precache-manifest.0e802dce6dfb8e3f3a6e547959c57368.js": "/art-and-craft/precache-manifest.0e802dce6dfb8e3f3a6e547959c57368.js",
+    "precache-manifest.97e836dee09c0d7a14e61da3680048fd.js": "/art-and-craft/precache-manifest.97e836dee09c0d7a14e61da3680048fd.js",
     "service-worker.js": "/art-and-craft/service-worker.js",
     "static/css/main.0e51fd6e.chunk.css.map": "/art-and-craft/static/css/main.0e51fd6e.chunk.css.map",
     "static/js/2.2c9b0e93.chunk.js.LICENSE.txt": "/art-and-craft/static/js/2.2c9b0e93.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.00c9c4dd.js",
     "static/js/2.2c9b0e93.chunk.js",
     "static/css/main.0e51fd6e.chunk.css",
-    "static/js/main.9dc87b95.chunk.js"
+    "static/js/main.54aa598a.chunk.js"
   ]
 }
