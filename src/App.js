@@ -79,7 +79,7 @@ class App extends React.Component {
         <GlobalStyle />
         <Header />
         <Switch>
-          <Route path="/" component={HomePage} />
+          <Route exact path="/" component={HomePage} />
           <Route path="/art-and-craft" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
           <Route path="/contact" component={Contact} />
