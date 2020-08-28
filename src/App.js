@@ -79,15 +79,11 @@ class App extends React.Component {
         <GlobalStyle />
         <Header />
         <Switch>
-          <Route exact path="/" component={HomePage} />
+          {/* <Route exact path="/" component={HomePage} /> */}
           <Route path="/art-and-craft" component={HomePage} />
-          <Route path="/art-and-craft/shop" component={ShopPage} />
-          <Route path="/art-and-craft/contact" component={Contact} />
-          <Route
-            exact
-            path="/art-and-craft/checkout"
-            component={CheckoutPage}
-          />
+          <Route path="/shop" component={ShopPage} />
+          <Route path="/contact" component={Contact} />
+          <Route exact path="/checkout" component={CheckoutPage} />
           <Route
             exact
             path="/signin"
@@ -99,7 +95,7 @@ class App extends React.Component {
               )
             }
           />
-          <Route path="/art-and-craft/handmade-art" component={HandmadeArt} />
+          <Route path="/handmade-art" component={HandmadeArt} />
         </Switch>
       </div>
     );
