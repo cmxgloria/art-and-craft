@@ -80,7 +80,7 @@ class App extends React.Component {
         <Header />
         <Switch>
           <Route exact path="/" component={HomePage} />
-          <Route path="/art-and-craft" component={HomePage} />
+          {/* <Route path="/art-and-craft" component={HomePage} /> */}
           <Route path="/shop" component={ShopPage} />
           <Route path="/contact" component={Contact} />
           <Route exact path="/checkout" component={CheckoutPage} />
