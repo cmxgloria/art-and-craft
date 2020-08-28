@@ -11,6 +11,11 @@ export default class Contact extends React.Component {
           I am a website designer as well. Happy to build your own awesome
           website.
         </h2>
+        <h3>
+          Please copy my website to browser to view. Sometimes it is not working
+          when you just click on the mobile because of "Surge" open source not
+          support.
+        </h3>
         <h2>
           Payment: Please Place Order in the Cart,Take Checkout Photo to Me then
           I Organise Payment
