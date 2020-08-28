@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3d614f5392af95503112949e827c8b5",
+    "revision": "a053bc3c1f66314fc905d26e50c4f6c2",
     "url": "/art-and-craft/index.html"
   },
   {
-    "revision": "5516ebb9bbffee23d235",
+    "revision": "bf2787e90956fd62c879",
     "url": "/art-and-craft/static/css/main.0e51fd6e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/art-and-craft/static/js/2.2c9b0e93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5516ebb9bbffee23d235",
-    "url": "/art-and-craft/static/js/main.c523ed99.chunk.js"
+    "revision": "bf2787e90956fd62c879",
+    "url": "/art-and-craft/static/js/main.b1eba56f.chunk.js"
   },
   {
     "revision": "2392670ad9943068c1ed",
