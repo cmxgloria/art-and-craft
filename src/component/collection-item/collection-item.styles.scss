@@ -15,8 +15,9 @@
     @media screen and (max-width: 800px) {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      width: 100%;
       grid-gap: 10px;
+      // width: 100%;
+      width: 160px;
     }
   }
 
