@@ -85,6 +85,24 @@ const SHOP_DATA = {
         imageUrl: "https://i.imgur.com/Pf8ZudL.jpg",
         price: 25,
       },
+      {
+        id: 200,
+        name: "A13Mix",
+        imageUrl: "https://i.imgur.com/2wnP9rt.png",
+        price: 18,
+      },
+      {
+        id: 201,
+        name: "A14 NoFace",
+        imageUrl: "https://i.imgur.com/Qi69ubB.png",
+        price: 18,
+      },
+      {
+        id: 202,
+        name: "A15 NoFace A++",
+        imageUrl: "https://i.imgur.com/JJig4Tn.png",
+        price: 35,
+      },
     ],
   },
   keyring: {
@@ -242,13 +260,13 @@ const SHOP_DATA = {
       {
         id: 91,
         name: "C7boy purse1",
-        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        imageUrl: "https://i.imgur.com/GzcnzBN.jpg",
         price: 10,
       },
 
       {
         id: 92,
-        name: "C8boy purse2",
+        name: "C8 mix",
         imageUrl: "https://i.imgur.com/FWTLoJF.jpg",
         price: 10,
       },
@@ -285,8 +303,8 @@ const SHOP_DATA = {
       },
       {
         id: 98,
-        name: "C14short unicorn purse",
-        imageUrl: "https://i.imgur.com/V6TaIeQ.jpg",
+        name: "C14boy purse",
+        imageUrl: "https://i.imgur.com/QyQX3Cr.jpg",
         price: 10,
       },
 
