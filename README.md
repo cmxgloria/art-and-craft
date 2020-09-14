@@ -139,3 +139,12 @@ allow write: if request.auth != null && request.auth.uid == "hkhuyeakhzShgow12";
 
 Then we could test in simulation section(create get update delete ) to test the path is working or not(past the auth.uid to test on or off line )
 ```
+
+## react native
+
+```
+sudo npm i -g react-native-cli
+react-native init ShoppingCategory
+npx react-native run-ios
+open -a Simulator
+```
