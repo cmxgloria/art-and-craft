@@ -1,5 +1,5 @@
-import React from 'react';
-import './contact.styles.scss';
+import React from "react";
+import "./contact.styles.scss";
 
 export default class Contact extends React.Component {
   render() {
@@ -14,10 +14,6 @@ export default class Contact extends React.Component {
         <h2>
           Available: More Design on Each Product and Welcome Your Enquiry.
           Within Australia Post available.
-        </h2>
-        <h2>
-          ******I am also a website designer. Happy to build your own awesome
-          website.******
         </h2>
       </div>
     );
